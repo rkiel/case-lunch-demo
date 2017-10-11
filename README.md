@@ -18,6 +18,7 @@ A ReactJS app to find inspiration for baby names. Built with the nifty [create-r
 
 ---
  Development: `npm start`
+ Development: `npm start`
 
  Production build: `npm run build`
  
